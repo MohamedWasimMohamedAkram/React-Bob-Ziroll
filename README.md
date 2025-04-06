@@ -12,22 +12,22 @@ While the Scrimba course utilizes a built-in interactive code editor, all the ex
 ## Course Modules & Progress
 
 - **Static Pages:** Fundamentals of React structure and JSX.
-  <br/>`█░░░░░░░░░░░░░░░░░░░░░░░░` 4%
+  <br/> `█░░░░░░░░░░░░░░░░░░░░░░░░` 4%
 
 - **Data-Driven React:** Passing data via props and rendering lists.
-  <br/>`░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
 
 - **React State:** Managing component state with `useState`, conditional rendering, handling events, and forms.
-  <br/>`░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
 
 - **Side Effects:** Using `useEffect` for handling side effects like API calls.
-  <br/>`░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
 
 - **Capstone Project #1 - Tenzies:** A dice game application consolidating state management and event handling concepts.
-  <br/>`░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
 
 - **Capstone Project #2 - Assembly: Endgame:**
-  <br/>`░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
 
 ---
 
