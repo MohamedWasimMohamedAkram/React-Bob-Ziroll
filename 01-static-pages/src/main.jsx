@@ -22,8 +22,15 @@ function Sect() {
 
 function Header() {
   return (
-    <header>
-      <img src="../public/vite.svg" width="40px" alt="Vite logo" />
+    <header className="main-header">
+      <img src="../public/vite.svg" alt="Vite logo" className="logo" />
+      <nav>
+        <ul className="nav-list">
+          <li>Pricing</li>
+          <li>About</li>
+          <li>Contact</li>
+        </ul>
+      </nav>
     </header>
   );
 }
