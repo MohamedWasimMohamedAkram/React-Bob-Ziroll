@@ -11,27 +11,23 @@ While the Scrimba course utilizes a built-in interactive code editor, all the ex
 
 ## Course Modules & Progress
 
-This repository mirrors the structure and content of the course. Update the `value` (completed items) and `max="XX"` (total items) in the progress bars below as you advance.
-
 - **Static Pages:** Fundamentals of React structure and JSX.
-  <br/>Status: <progress value="0" max="XX"></progress> (0/XX - 0%)
+  <br/>Status: <progress value="0" max="100"></progress>
 
 - **Data-Driven React:** Passing data via props and rendering lists.
-  <br/>Status: <progress value="0" max="XX"></progress> (0/XX - 0%)
+  <br/>Status: <progress value="0" max="100"></progress>
 
 - **React State:** Managing component state with `useState`, conditional rendering, handling events, and forms.
-  <br/>Status: <progress value="0" max="XX"></progress> (0/XX - 0%)
+  <br/>Status: <progress value="0" max="100"></progress>
 
 - **Side Effects:** Using `useEffect` for handling side effects like API calls.
-  <br/>Status: <progress value="0" max="XX"></progress> (0/XX - 0%)
+  <br/>Status: <progress value="0" max="100"></progress>
 
 - **Capstone Project #1 - Tenzies:** A dice game application consolidating state management and event handling concepts.
-  <br/>Status: <progress value="0" max="XX"></progress> (0/XX - 0%)
+  <br/>Status: <progress value="0" max="100"></progress>
 
-- **Capstone Project #2 - Assembly: Endgame:** (Details specific to this project would be based on the course content).
-  <br/>Status: <progress value="0" max="XX"></progress> (0/XX - 0%)
-
-- **(Other projects mentioned in the course description like Meme Generator, Notes App, Quizzical App will be added here with their own progress bars as they are started/completed)**
+- **Capstone Project #2 - Assembly: Endgame:**
+  <br/>Status: <progress value="0" max="100"></progress>
 
 ---
 
