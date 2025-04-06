@@ -12,7 +12,7 @@ While the Scrimba course utilizes a built-in interactive code editor, all the ex
 ## Course Modules & Progress
 
 - **Static Pages:** Fundamentals of React structure and JSX.
-  <br/> `█░░░░░░░░░░░░░░░░░░░░░░░░` 4%
+  <br/> `█████████████████░░░░░░░░` 68%
 
 - **Data-Driven React:** Passing data via props and rendering lists.
   <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
