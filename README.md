@@ -12,7 +12,7 @@ While the Scrimba course utilizes a built-in interactive code editor, all the ex
 ## Course Modules & Progress
 
 - **Static Pages:** Fundamentals of React structure and JSX.
-  <br/>Status: <progress value="0" max="100"></progress>
+  <br/>Status: <progress value="5" max="100"></progress>
 
 - **Data-Driven React:** Passing data via props and rendering lists.
   <br/>Status: <progress value="0" max="100"></progress>
