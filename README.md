@@ -12,22 +12,22 @@ While the Scrimba course utilizes a built-in interactive code editor, all the ex
 ## Course Modules & Progress
 
 - **Static Pages:** Fundamentals of React structure and JSX.
-  <br/> ![](https://geps.dev/progress/72)
+  <br/> 👟➖➖➖➖➖➖⚽️➖➖➖🥅
 
 - **Data-Driven React:** Passing data via props and rendering lists.
-  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
 
 - **React State:** Managing component state with `useState`, conditional rendering, handling events, and forms.
-  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
 
 - **Side Effects:** Using `useEffect` for handling side effects like API calls.
-  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
 
 - **Capstone Project #1 - Tenzies:** A dice game application consolidating state management and event handling concepts.
-  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
 
 - **Capstone Project #2 - Assembly: Endgame:**
-  <br/> `░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+  <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
 
 ---
 
