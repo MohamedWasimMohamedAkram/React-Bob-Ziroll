@@ -3,7 +3,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Arial", sans-serif;
 }
 
 /* Body */
@@ -17,81 +16,6 @@ body {
   min-height: 100vh;
 }
 
-/* Header Styles */
-.main-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 40px;
-  background-color: #30475e; /* Dark blue-gray */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.main-header .logo {
-  width: 100px;
-}
-
-nav .nav-list {
-  display: flex;
-  gap: 20px;
-}
-
-nav .nav-list li {
-  list-style: none;
-  font-size: 16px;
-  font-weight: 600;
-  color: #dddddd; /* Light gray for contrast */
-}
-
-nav .nav-list li:hover {
-  color: #f05454; /* Red for hover effect */
-  cursor: pointer;
-}
-
-nav .nav-list li {
-  transition: color 0.3s ease;
-}
-
-/* Main Content Styles */
-main {
-  flex: 1;
-  padding: 40px;
-  max-width: 800px;
-  margin: 40px auto;
-  background-color: #ffffff; /* White for clean look */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
-}
-
-main h1 {
-  font-size: 2.5rem;
-  color: #222831; /* Dark gray for heading */
-  margin-bottom: 20px;
-}
-
-ol {
-  padding-left: 20px;
-  font-size: 1.1rem;
-  color: #222831; /* Dark gray for list items */
-}
-
-ol li {
-  margin-bottom: 15px;
-  line-height: 1.6;
-}
-
-ol li::marker {
-  color: #30475e; /* Dark blue-gray for the list marker */
-}
-
-/* Footer Styles */
-footer {
-  background-color: #30475e; /* Dark blue-gray */
-  color: #ffffff; /* White text for contrast */
-  padding: 20px 0;
-  text-align: center;
-}
-
-footer small {
-  font-size: 14px;
+.react-logo {
+  width: 40px;
 }
