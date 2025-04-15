@@ -1,0 +1,78 @@
+html,
+body {
+  margin: 0;
+  font-family: "Inter";
+}
+
+header {
+  background-color: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 25px 0px;
+  color: white;
+}
+
+header > img {
+  width: 24px;
+}
+
+header > span {
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.articleDiv {
+  display: flex;
+  padding: 40px;
+  gap: 20px;
+  align-items: center;
+}
+
+.locationImg {
+  width: 170px;
+  height: 220px;
+  border-radius: 5px;
+}
+
+.locationMarker {
+  width: 20px;
+}
+
+.textSection {
+}
+
+.countryRow {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.textSection > h1 {
+  font-size: 32px;
+  margin: 10px 0px;
+}
+
+.textSection > h6 {
+  font-size: 12px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.textSection > p {
+  font-size: 12px;
+}
+
+.cityName {
+  letter-spacing: 17%;
+}
+
+.mapsLink {
+  margin-left: 10px;
+}
+
+.mapsLink > a {
+  color: #918e9b;
+}
