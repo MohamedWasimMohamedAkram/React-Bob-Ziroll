@@ -13,19 +13,25 @@ While the Scrimba course utilizes a built-in interactive code editor, all the ex
 
 - **Static Pages:** Fundamentals of React structure and JSX.
   <br/> 👟➖➖➖➖➖➖➖➖➖⚽️🥅✅
+  <hr/>
 
 - **Data-Driven React:** Passing data via props and rendering lists.
-  <br/> 👟➖➖➖➖➖➖➖➖➖⚽️🥅✅
-  Check out the project live here: [My Travel Journal](https://mohamedwasimmohamedakram.github.io/React-Travel-Journal/)
+<br/> 👟➖➖➖➖➖➖➖➖➖⚽️🥅✅ <br/>
+Check out the project repository here: [My Travel Journal Repo](https://github.com/MohamedWasimMohamedAkram/React-Travel-Journal) <br/>
+Check out the project live here: [My Travel Journal](https://mohamedwasimmohamedakram.github.io/React-Travel-Journal/)<br/>
+<hr/>
 
 - **React State:** Managing component state with `useState`, conditional rendering, handling events, and forms.
-  <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
+<br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
+<hr/>
 
 - **Side Effects:** Using `useEffect` for handling side effects like API calls.
-  <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
+<br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
+<hr/>
 
 - **Capstone Project #1 - Tenzies:** A dice game application consolidating state management and event handling concepts.
-  <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
+<br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
+<hr/>
 
 - **Capstone Project #2 - Assembly: Endgame:**
   <br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
