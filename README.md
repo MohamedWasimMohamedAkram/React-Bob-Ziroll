@@ -22,7 +22,7 @@ Check out the project live here: [My Travel Journal](https://mohamedwasimmohamed
 <hr/>
 
 - **React State:** Managing component state with `useState`, conditional rendering, handling events, and forms.
-<br/> 👟⚽️➖➖➖➖➖➖➖➖➖🥅
+<br/> 👟➖➖➖➖➖➖➖⚽️➖➖🥅
 <hr/>
 
 - **Side Effects:** Using `useEffect` for handling side effects like API calls.
